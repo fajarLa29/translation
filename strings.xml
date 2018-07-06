@@ -1,0 +1,44 @@
+<resources>
+    <!--BEFORE CONTINUE-->
+    <!--PLEASE READ THIS CAREFULLY-->
+    <!--EDIT THE MAIN TEXT NOT THE TEXT AFTER <string name="text"-->
+    <!--DO NOT DELETE ANY SINGLE ATTRIBUTE FROM THIS XML FILE-->
+    <!--EXCEPT THE TEXT THAT WANNA TO TRANSLATED INTO-->
+    
+    <string name="cheats_menu_title">Cheats</string>
+    <string name="defeating_races">DEFEATING RACES</string>
+    <string name="defeating_races_main_activity">Defeating Races</string>
+    <string name="unit_main_activity">Unit</string>
+    <string name="heroes_main_activity">Heroes</string>
+    <string name="all_races">All Races</string>
+    <string name="search_unit">search unit...</string>
+    <string name="clear_searchView">Clear</string>
+    <string name="understand_button">I Understand</string>
+    <string name="statistic">STATS</string>
+    <string name="lore">LORE</string>
+    <string name="gold">Gold</string>
+    <string name="lumber">Lumber</string>
+    <string name="food">Food</string>
+    <string name="rush_human">Rush!</string>
+    <string name="go_anti_magic">Go Anti-Magic</string>
+    <string name="kill_the_archmage">Kill the Archmage</string>
+    <string name="scout_for_and_stop_early_expansion">Scout for and stop early expansions</string>
+    <string name="kill_the_burrow">Kill The Burrows!</string>
+    <string name="rush_undead">Rush!</string>
+    <string name="kill_haunted_gold_mine">Kill Their Haunted Gold Mine</string>
+    <string name="hide_fun">Hide Fun!!</string>
+    <string name="rush_human_desc">Humans are weak to early rushes, especially if they don\'t have an Arcane Tower. Focus all your attention on killing their Peasants or Militia. Ignore the Footmen and Heroes because your goal is to kill their Peasants to get them behind. Good human players can defeat this attack but even if they lose some (maybe 4–5) Peasants your attack can be successful if you don\'t lose a lot or any units. You can then come back later with a larger army to finish them off.</string>
+    <string name="human">Human</string>
+    <string name="go_anti_magic_desc">The Humans often focus on using Priests and Sorceresses. Go Anti-spellcasters to defeat them.</string>
+    <string name="kill_the_archmage_desc">Humans often rely on the Archmage for either Blizzard or Water Elementals. The Water Elementals are summonables so deal with them or kill the Archmage using Hero killers.</string>
+    <string name="scout_and_stop_early_expansion_desc">The sneaky Humans sometimes try to get an expansion at the start of the game. Patrol for this and hit it as soon as possible.</string>
+    <string name="kill_the_burrow_desc">Burrows are the big weakness of the Orcs. If you can get in and kill their Burrows they will no longer have food to build their army. This will also reduce the defenses of the town. Ranged units work the best such as Archers with Improved Bows. Any unit can work but it can be more difficult with melee units if the town is built correctly.</string>
+    <string name="orc">Orc</string>
+    <string name="rush_undead_desc">Undead players are very weak early on if they don\'t have a Nerubian tower. Many Undead players like to upgrade very early. They assume no one will attack them because of their towers or tough defenses. That is their own undoing. It is especially useful in team games to rush one of the Undead players. Your goal will be to kill their Acolytes. They may try to run them away (if they are decent) but you can still kill them pretty easily with certain Heroes and skills.</string>
+    <string name="undead">Undead</string>
+    <string name="kill_haunted_gold_mine_desc">If you can get in early at the start of the game, or do some hit-and-run attack, you can severely damage the Undead player. They will have to resummon their Haunted Gold Mine which will take a while. The counter to this is repair the Haunted Gold Mine and to have some towers around it.</string>
+    <string name="hide_fun_desc">Night Elf players (or someone with a Cloak) can use Hide to harass Undead Acolytes on the Haunted Gold Mine. Simply attack, then hide. Wait a while, then do it again! This makes Undead players very angry TT! Undead players can counter this by using Dust at their shop (oops shouldn\'t have told) or by building a Nerubian Tower close to their Haunted Gold Mine.</string>
+    
+    <!--COPYRIGHT IMPIXEL STUDIO 2018 | ALL RIGHT RESERVED-->
+    
+</resources>
